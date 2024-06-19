@@ -1,5 +1,7 @@
 # Capstone K1-04 2024
-model : https://drive.google.com/file/d/1i0v9tN1b8m-LnymrFLDy4Oc9jc0FFjE1/view?usp=sharing
+![Otomatisasi Pertanian untuk Penyortiran Buah Menggunakan myCobot 280 dengan Jetson Nano (2)](https://github.com/S1KomIPB/2024-K1-04/assets/93993894/048b11fb-7391-4aa2-b40e-95943cd2e1b1)
+
+model untuk sortir_buah.py : https://drive.google.com/file/d/1i0v9tN1b8m-LnymrFLDy4Oc9jc0FFjE1/view?usp=sharing
 
 Anggota Kelompok:
 - Abdurrahim Ramadhan Idin G6401211114
